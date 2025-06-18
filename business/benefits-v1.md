@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Arhitektuuriline lähenemine))
+  root((Uus arhitektuuriline lähenemine))
     Kasulikkus
       Juhtimistasand
         (Selge ülevaade teenuste toimimisest)
